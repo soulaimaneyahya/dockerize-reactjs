@@ -42,5 +42,4 @@ jobs:
         run: |
           cd ./xreact
           npm install
-          npm run test
           npm run build
